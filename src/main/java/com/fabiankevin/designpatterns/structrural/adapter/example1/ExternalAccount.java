@@ -1,4 +1,4 @@
-package com.fabiankevin.designpatterns.structrural.adapter;
+package com.fabiankevin.designpatterns.structrural.adapter.example1;
 
 public class ExternalAccount {
     private String account;

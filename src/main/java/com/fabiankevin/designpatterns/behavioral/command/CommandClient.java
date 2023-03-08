@@ -7,7 +7,7 @@ import com.fabiankevin.designpatterns.behavioral.command.commands.TvTurnOn;
 import com.fabiankevin.designpatterns.behavioral.command.invoker.RemoteControl;
 import com.fabiankevin.designpatterns.behavioral.command.receiver.TV;
 
-public class CommandApp {
+public class CommandClient {
     public static void main(String[] args) {
         TV tv = new TV();
 
